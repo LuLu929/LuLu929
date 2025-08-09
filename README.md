@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=JunhyungPark&fontColor=FFFFFF&fontAlignY=41&desc=I'm%20a%20front-end%20developer%20who%20solves%20algorithmic%20problems%20as%20a%20hobby&descAlignY=59)
 ---
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20253435)](https://solved.ac/20253435)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20253435)](https://solved.ac/profile/20253435)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=20253435)
 ---
 <p align="center">

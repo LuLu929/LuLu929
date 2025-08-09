@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Junhyung Park</h1>
-<h3 align="center">Front-end developer from Korea</h3>
+<h3 align="center">I'm a front-end developer who solves algorithmic problems as a hobby</h3>
 <p align="center">I’m currently learning HTML, CSS, JAVASCRIPT</p>
 
 <h3 align="center">Connect with me:</h3>
